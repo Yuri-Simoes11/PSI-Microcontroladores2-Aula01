@@ -1,0 +1,11 @@
+# Ignorar pastas de compilação e configurações do VS Code
+.vscode/
+.pio/
+.include/
+.lib/
+.test/
+.zephyr/
+platagormio.ini
+*.exe
+*.o
+*.out
